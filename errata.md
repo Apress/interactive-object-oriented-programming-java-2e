@@ -1,8 +1,8 @@
 # Errata for *Book Title*
 
-On **page xx** [Summary of error]:
+On **page 51** [Wrapper Classes Description of Error]:
  
-Details of error here. Highlight key pieces in **bold**.
+In the corresponding table, the wrapper class for the char primitive is shown as Char when it should be Character.
 
 ***
 
