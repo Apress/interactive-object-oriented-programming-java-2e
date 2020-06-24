@@ -1,4 +1,4 @@
-# Errata for *Book Title*
+# Errata for *Interactive Object Oriented Programming in Java*
 
 On **page 51** [Wrapper Classes Description of Error]:
  
